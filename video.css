@@ -1,0 +1,5 @@
+table td,th{ text-align: center; width:500px; margin: auto; font-size: 30px; padding: 5px; border:1px solid rgb(0, 85, 255); border-collapse: collapse;}
+.center{margin-left: auto; margin-right: auto;}
+.my{text-align: center; font-size: 30px;}
+table{background-image:linear-gradient(rgba(0, 0, 0, 0.562),rgb(223, 203, 244),rgba(255, 166, 0, 0.518));}
+.gradient{background-image: radial-gradient(rgba(50, 179, 208, 0.275), rgb(129, 125, 153),rgba(255, 166, 0, 0.505)); margin-left: auto; margin-right: auto;}
